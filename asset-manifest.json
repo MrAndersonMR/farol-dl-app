@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/farol-dl-app/static/css/main.073c9b0a.css",
+    "main.js": "/farol-dl-app/static/js/main.656bbfd4.js",
+    "static/js/787.91995d09.chunk.js": "/farol-dl-app/static/js/787.91995d09.chunk.js",
+    "index.html": "/farol-dl-app/index.html",
+    "main.073c9b0a.css.map": "/farol-dl-app/static/css/main.073c9b0a.css.map",
+    "main.656bbfd4.js.map": "/farol-dl-app/static/js/main.656bbfd4.js.map",
+    "787.91995d09.chunk.js.map": "/farol-dl-app/static/js/787.91995d09.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.656bbfd4.js"
+  ]
+}
